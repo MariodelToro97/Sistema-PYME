@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#servicios{
+    background-color: white;
+}
+
+#quien{
+    background-color: rgb(209, 209, 209);
+}
+
+#contacto {
+    background-color: white;
+}
+
+footer {
+    background-color: rgb(209, 209, 209);
+}
